@@ -1,0 +1,3 @@
+[submodule "my-site-start"]
+	path = my-site-start
+	url = https://github.com/tripleee/my-site-start.git
